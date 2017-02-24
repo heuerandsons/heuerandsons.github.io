@@ -3,3 +3,5 @@ description: 24 HR SCIENTIFIC SERVICES
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+excerpt_separator: <!-- more -->
+permalink: /:categories/:slug
