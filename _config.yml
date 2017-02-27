@@ -1,7 +1,7 @@
 title: Heuer & Sons
 description: 24 HR SCIENTIFIC SERVICES
 show_downloads: false
-google_analytics:
+google_analytics: UA-92716404-1
 theme: jekyll-theme-cayman
 excerpt_separator: <!-- more -->
 permalink: /:categories/:slug
